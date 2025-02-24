@@ -1,2 +1,1 @@
-content1 chess.cpp 
-content2 chess.cpp 
+replace2 chess.cpp 
